@@ -1,0 +1,15 @@
+.menu-button:hover {
+    transition-duration: 0.1s;
+    rotate: 0;
+    scale: 1.1 1.1;
+}
+
+.unity-slider-int {
+    -unity-font-definition: url('project://database/Assets/UI/Disket-Mono-Regular%20SDF.asset?fileID=11400000&guid=d4ae36be5cfade0459d0a5dae6c75928&type=2#Disket-Mono-Regular SDF');
+    color: rgb(255, 255, 255);
+}
+
+.unity-slider-int:hover {
+    scale: 1.1 1.1;
+    transition-duration: 0.1s;
+}
